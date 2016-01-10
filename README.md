@@ -22,19 +22,19 @@ ML is for more CS focused folks, uses Octave (Matlab-like language). 
 You can use WEKA library if you use Java to develop. WEKA is wrapped also in R as well as in Python. But both R and Python has tons of ML libraries already.
 
 ## Datasets
-https://www.kaggle.com
+* https://www.kaggle.com
 
 ## Neural networks 
-http://deeplearning.net/tutorial/
-http://karpathy.github.io/neuralnets/
-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html
-http://tensorflow.org/
+* http://deeplearning.net/tutorial/
+* http://karpathy.github.io/neuralnets/
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html
+* http://tensorflow.org/
 
 ## Fun projects: 
-http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-https://github.com/kaishengtai/neuralart
-https://github.com/ryankiros/neural-storyteller
+* http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+* https://github.com/kaishengtai/neuralart
+* https://github.com/ryankiros/neural-storyteller
 
 ## Misc 
-Artificial Intelligence Weekly — http://aiweekly.co/
+* Artificial Intelligence Weekly — http://aiweekly.co/
