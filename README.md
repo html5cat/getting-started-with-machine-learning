@@ -31,10 +31,13 @@ You can use WEKA library if you use Java to develop. WEKA is wrapped also in R a
 * http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html
 * http://tensorflow.org/
 
-## Fun projects: 
+## Fun projects
 * http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 * https://github.com/kaishengtai/neuralart
 * https://github.com/ryankiros/neural-storyteller
+
+## Jobs
+* Machine Learning Engineer @mattermark – https://jobs.lever.co/mattermark/2f9c8c35-c9eb-4201-880a-886f77362d25
 
 ## Misc 
 * OpenAI Reddit AMA (January 9, 2016) – https://www.reddit.com/r/MachineLearning/comments/404r9m/ama_the_openai_research_team/
