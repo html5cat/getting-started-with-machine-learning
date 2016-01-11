@@ -37,4 +37,6 @@ You can use WEKA library if you use Java to develop. WEKA is wrapped also in R a
 * https://github.com/ryankiros/neural-storyteller
 
 ## Misc 
+* OpenAI Reddit AMA (January 9, 2016) – https://www.reddit.com/r/MachineLearning/comments/404r9m/ama_the_openai_research_team/
+* **[Greg Brockman](https://gregbrockman.com/)'s resource list** – https://github.com/gdb/kaggle#resources-ive-been-learning-from
 * Artificial Intelligence Weekly — http://aiweekly.co/
