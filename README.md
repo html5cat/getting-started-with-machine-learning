@@ -35,6 +35,7 @@ You can use WEKA library if you use Java to develop. WEKA is wrapped also in R a
 * http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 * https://github.com/kaishengtai/neuralart
 * https://github.com/ryankiros/neural-storyteller
+* https://github.com/facebook/MazeBase
 
 ## Jobs
 * Machine Learning Engineer @mattermark – https://jobs.lever.co/mattermark/2f9c8c35-c9eb-4201-880a-886f77362d25
