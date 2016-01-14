@@ -23,6 +23,8 @@ You can use WEKA library if you use Java to develop. WEKA is wrapped also in R a
 
 ## Datasets
 * https://www.kaggle.com
+* https://www.githubarchive.org/ – "GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis."
+* https://commoncrawl.org/ – "We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone."
 
 ## Neural networks 
 * http://deeplearning.net/tutorial/
