@@ -1,7 +1,5 @@
 Getting started with Machine Learning 
 ===
-Updated January 10, 2016
-
 There’s a been a lot of attention directed to AI and Machine learning lately so I’d like to collect great materials to get you up to speed.
 
 Ping me if something is missing or shouldn’t be here.
