@@ -19,6 +19,13 @@ ML is for more CS focused folks, uses Octave (Matlab-like language). 
 
 You can use WEKA library if you use Java to develop. WEKA is wrapped also in R as well as in Python. But both R and Python has tons of ML libraries already.
 
+### NLP 
+Natural Language Processing by Dan Jurafsky & Christopher Manning – https://www.coursera.org/course/nlp
+
+Two books seem to be fundamental in this field: 
+* Speech and Language Processing, by Chris Manning & Hinrich Schütze
+* Foundations of Statistical Natural Language Processing, by Daniel Jurafsky & James H. Martin
+
 ## Datasets
 * https://www.kaggle.com
 * https://www.githubarchive.org/ – "GitHub Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis."
